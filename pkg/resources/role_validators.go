@@ -12,6 +12,7 @@ var AllowedDbLevelPrivileges = []string{
 	"SELECT",
 	"INSERT",
 	"ALTER",
+	"TRUNCATE",
 	"CREATE DATABASE",
 	"CREATE TABLE",
 	"CREATE VIEW",
